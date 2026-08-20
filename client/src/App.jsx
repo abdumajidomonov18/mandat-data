@@ -95,7 +95,7 @@ function App() {
         {/* Header */}
         <header className="header">
           <div className="logo">🎓</div>
-          <h1>Abituriyentlar Natijasi 2024</h1>
+          <h1>Abituriyentlar Natijasi 2026</h1>
           <p className="subtitle">Mandat ma'lumotlari qidiruv tizimi</p>
         </header>
 

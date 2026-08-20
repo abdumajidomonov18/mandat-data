@@ -1,4 +1,4 @@
-# 🎓 Abituriyentlar Natijasi (Mandat) - 2024
+# 🎓 Abituriyentlar Natijasi (Mandat) - 2026
 
 Ushbu loyiha O'zbekiston Respublikasi Oliy ta'lim muassasalariga kirish imtihonlari (Mandat) natijalarini qulay va tezkor qidirish uchun mo'ljallangan to'liq (Full-Stack) tizim hisoblanadi. Loyiha ham **Telegram Bot**, ham **Web Ilova (WebApp)** orqali ishlaydi.
 
