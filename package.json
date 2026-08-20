@@ -1,0 +1,26 @@
+{
+  "name": "mandat-app",
+  "version": "1.0.0",
+  "description": "Abituriyentlar Mandat Qidiruv Tizimi",
+  "main": "server/index.js",
+  "scripts": {
+    "server": "node server/index.js",
+    "bot": "node server/bot.js",
+    "import": "node scripts/import-csv.js",
+    "build": "cd client && npm install && npm run build",
+    "dev": "concurrently \"npm run server\" \"cd client && npm run dev\"",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "axios": "^1.19.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "telegraf": "^4.16.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
